@@ -1,0 +1,28 @@
+html,
+body,
+#map {
+    height: 100%;
+    margin: 0;
+}
+
+.leaflet-popup-content {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.4;
+}
+
+.province-label {
+    display: none;
+    font-size: 12px;
+    font-weight: bold;
+    color: black;
+    background: transparent;
+    padding: 1px 5px;
+    white-space: nowrap;
+    pointer-events: none;
+    text-shadow:
+        -1px -1px 0 white,
+        1px -1px 0 white,
+        -1px 1px 0 white,
+        1px 1px 0 white;
+}
