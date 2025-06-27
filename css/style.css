@@ -12,8 +12,9 @@ body,
 }
 
 .province-label {
-    display: none;
+    /* display: none; */
     font-size: 12px;
+    text-align: right;
     font-weight: bold;
     color: black;
     background: transparent;

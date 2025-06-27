@@ -1,172 +1,172 @@
 {
     "An Giang": {
         "minZoom": 7,
-        "maxZoom": 7,
+        "maxZoom": 8,
         "position": [10.299968, 104.790422]
     },
     "Bắc Ninh": {
         "minZoom": 7,
-        "maxZoom": 9,
+        "maxZoom": 8,
         "position": [21.304959, 106.374234]
     },
     "Cà Mau": {
         "minZoom": 7,
-        "maxZoom": 7,
+        "maxZoom": 8,
         "position": [8.837907, 105.189177]
     },
     "Cần Thơ": {
         "minZoom": 6,
-        "maxZoom": 7,
-        "position": [9.703514, 105.884223]
+        "maxZoom": 8,
+        "position": [9.356287, 106.136795]
     },
     "Cao Bằng": {
         "minZoom": 7,
-        "maxZoom": 7,
+        "maxZoom": 8,
         "position": [22.665, 106.257]
     },
     "Đà Nẵng": {
         "minZoom": 6,
-        "maxZoom": 7,
+        "maxZoom": 8,
         "position": [16.054, 108.202]
     },
     "Đắk Lắk": {
         "minZoom": 7,
-        "maxZoom": 7,
+        "maxZoom": 8,
         "position": [12.701928, 108.505723]
     },
     "Điện Biên": {
         "minZoom": 7,
-        "maxZoom": 7,
+        "maxZoom": 8,
         "position": [21.382, 103.017]
     },
     "Đồng Nai": {
         "minZoom": 7,
-        "maxZoom": 7,
+        "maxZoom": 8,
         "position": [11.539088, 107.098586]
     },
     "Đồng Tháp": {
         "minZoom": 7,
-        "maxZoom": 7,
+        "maxZoom": 8,
         "position": [10.398190, 105.858783]
     },
     "Gia Lai": {
         "minZoom": 7,
-        "maxZoom": 7,
+        "maxZoom": 8,
         "position": [13.800, 108.252]
     },
     "Hà Nội": {
         "minZoom": 5,
-        "maxZoom": 7,
+        "maxZoom": 8,
         "position": [21.0285, 105.8542]
     },
     "Hà Tĩnh": {
         "minZoom": 7,
-        "maxZoom": 7,
+        "maxZoom": 8,
         "position": [18.340, 105.905]
     },
     "Hải Phòng": {
         "minZoom": 6,
-        "maxZoom": 7,
+        "maxZoom": 8,
         "position": [20.861, 106.682]
     },
     "Huế": {
         "minZoom": 7,
-        "maxZoom": 7,
+        "maxZoom": 8,
         "position": [16.464, 107.595]
     },
     "Hưng Yên": {
         "minZoom": 7,
-        "maxZoom": 7,
+        "maxZoom": 8,
         "position": [20.646, 106.051]
     },
     "Khánh Hòa": {
         "minZoom": 7,
-        "maxZoom": 7,
+        "maxZoom": 8,
         "position": [12.262, 109.189]
     },
     "Lai Châu": {
         "minZoom": 7,
-        "maxZoom": 7,
+        "maxZoom": 8,
         "position": [22.39, 103.45]
     },
     "Lâm Đồng": {
         "minZoom": 7,
-        "maxZoom": 7,
+        "maxZoom": 8,
         "position": [11.741427, 108.030481]
     },
     "Lạng Sơn": {
         "minZoom": 7,
-        "maxZoom": 7,
+        "maxZoom": 8,
         "position": [21.845, 106.758]
     },
     "Lào Cai": {
         "minZoom": 7,
-        "maxZoom": 7,
+        "maxZoom": 8,
         "position": [22.4850, 103.9706]
     },
     "Nghệ An": {
         "minZoom": 7,
-        "maxZoom": 7,
+        "maxZoom": 8,
         "position": [19.234, 104.921]
     },
     "Ninh Bình": {
         "minZoom": 7,
-        "maxZoom": 7,
+        "maxZoom": 8,
         "position": [20.250, 105.974]
     },
     "Phú Thọ": {
         "minZoom": 7,
-        "maxZoom": 7,
+        "maxZoom": 8,
         "position": [21.360, 105.228]
     },
     "Quảng Ngãi": {
         "minZoom": 7,
-        "maxZoom": 7,
+        "maxZoom": 8,
         "position": [15.121, 108.808]
     },
     "Quảng Ninh": {
         "minZoom": 7,
-        "maxZoom": 7,
+        "maxZoom": 8,
         "position": [21.072, 107.292]
     },
     "Quảng Trị": {
         "minZoom": 7,
-        "maxZoom": 7,
+        "maxZoom": 8,
         "position": [16.740, 107.185]
     },
     "Sơn La": {
         "minZoom": 7,
-        "maxZoom": 7,
+        "maxZoom": 8,
         "position": [21.125, 104.006]
     },
     "Tây Ninh": {
         "minZoom": 7,
-        "maxZoom": 7,
+        "maxZoom": 8,
         "position": [11.379, 106.125]
     },
     "Thái Nguyên": {
         "minZoom": 7,
-        "maxZoom": 7,
+        "maxZoom": 8,
         "position": [21.591, 105.844]
     },
     "Thanh Hóa": {
         "minZoom": 7,
-        "maxZoom": 7,
+        "maxZoom": 8,
         "position": [19.802, 105.775]
     },
     "TP Hồ Chí Minh": {
         "minZoom": 5,
-        "maxZoom": 7,
+        "maxZoom": 8,
         "position": [10.7769, 106.7009]
     },
     "Tuyên Quang": {
         "minZoom": 7,
-        "maxZoom": 7,
+        "maxZoom": 8,
         "position": [21.819, 105.215]
     },
     "Vĩnh Long": {
         "minZoom": 7,
-        "maxZoom": 7,
+        "maxZoom": 8,
         "position": [9.986985, 106.353099]
     }
 }
